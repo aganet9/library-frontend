@@ -1,0 +1,17 @@
+.app-layout {
+    min-height: 100vh;
+}
+
+.logo {
+    height: 32px;
+    margin: 16px;
+    background: rgba(255, 255, 255, 0.3);
+    color: white;
+    text-align: center;
+    line-height: 32px;
+    font-weight: bold;
+}
+
+.site-layout-background {
+    background: #fff;
+}
